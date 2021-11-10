@@ -1,0 +1,27 @@
+body {background-color: rgb(255, 255, 255);}
+
+body {
+    /* color: rgb(255, 255, 255); */
+  }
+  
+  h1 {
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(184, 54, 54);
+  }
+  
+.font-specific {
+      font-family: 'Josefin Sans', sans-serif;
+  }
+
+  a {
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  p {
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+  .border-image{
+    border: 5px solid red;
+  }
+  
